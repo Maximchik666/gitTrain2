@@ -15,3 +15,6 @@ struct gitTrainApp: App {
         }
     }
 }
+
+
+// Google Analytics
