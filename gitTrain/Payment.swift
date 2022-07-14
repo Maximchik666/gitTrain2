@@ -4,4 +4,5 @@
 //
 //  Created by Максим Круглов on 14.07.2022.
 //
- // Give me all your money
+// Give me all your money
+// Hurry Up Beatch!!!
