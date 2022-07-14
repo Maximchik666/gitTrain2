@@ -14,6 +14,7 @@
 		9920F49D288040FF00AF9705 /* gitTrainTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9920F49C288040FF00AF9705 /* gitTrainTests.swift */; };
 		9920F4A7288040FF00AF9705 /* gitTrainUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9920F4A6288040FF00AF9705 /* gitTrainUITests.swift */; };
 		9920F4A9288040FF00AF9705 /* gitTrainUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9920F4A8288040FF00AF9705 /* gitTrainUITestsLaunchTests.swift */; };
+		9920F4B62880428D00AF9705 /* Payment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9920F4B52880428D00AF9705 /* Payment.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		9920F4A2288040FF00AF9705 /* gitTrainUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = gitTrainUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9920F4A6288040FF00AF9705 /* gitTrainUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gitTrainUITests.swift; sourceTree = "<group>"; };
 		9920F4A8288040FF00AF9705 /* gitTrainUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gitTrainUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		9920F4B52880428D00AF9705 /* Payment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Payment.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				9920F48B288040FD00AF9705 /* gitTrainApp.swift */,
 				9920F48D288040FD00AF9705 /* ContentView.swift */,
+				9920F4B52880428D00AF9705 /* Payment.swift */,
 				9920F48F288040FF00AF9705 /* Assets.xcassets */,
 				9920F491288040FF00AF9705 /* Preview Content */,
 			);
@@ -258,6 +261,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9920F48E288040FD00AF9705 /* ContentView.swift in Sources */,
+				9920F4B62880428D00AF9705 /* Payment.swift in Sources */,
 				9920F48C288040FD00AF9705 /* gitTrainApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
